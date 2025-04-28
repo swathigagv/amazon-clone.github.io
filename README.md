@@ -11,10 +11,6 @@ The goal of this project was to practice web page structuring and styling withou
 - Product section showcasing different items
 - Footer with useful links
 
-## 📸 Preview
-![Amazon Clone Screenshot](https://drive.google.com/file/d/1Q1_J8Ioigcs8hq-PcbkB3b_onzrTwMfI/view?usp=drive_link)  
-*(Add a screenshot of your project here)*
-
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3**
