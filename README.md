@@ -30,7 +30,3 @@ The goal of this project was to practice web page structuring and styling withou
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/swathiga-g-v-57a2291b8/)
 
----
-
-Would you also like me to give you a slightly more stylish/fancy version if you want it to look even cooler? 🎨🚀  
-(Like with badges, emojis, sections, etc.)
